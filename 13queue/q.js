@@ -15,9 +15,9 @@ class Queue {
 
     if (this.head == null) {
       this.head = newNode;
-      return;
+      return
     }
-
+ 
     let temp = this.head;
 
     while (temp.next != null) {
