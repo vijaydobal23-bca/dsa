@@ -60,6 +60,7 @@ tree.insert(7);
 
 tree.printTree();
 tree.printTree();
+tree.printTree();
 
 
 
