@@ -24,7 +24,7 @@ class BST {
       root.right = this.insert(root.right, val);
     }
 
-    return root;
+    return root
   }
 
   LDR(root) {
