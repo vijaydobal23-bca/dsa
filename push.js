@@ -10,3 +10,4 @@ console.log("Hello from push.js");
 console.log("Hello from push.js");
 console.log("Hello from push.js");
 console.log("Hello from push.js");
+console.log("Hello from push.js");
